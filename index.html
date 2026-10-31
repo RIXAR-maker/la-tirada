@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>La Tirada</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="La Tirada, club de petanca de Madrid. Mapa de las canchas de petanca públicas del municipio.">
+  <meta name="theme-color" content="#F7C600">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="La Tirada">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="icon" type="image/svg+xml" href="assets/logo-mark.svg">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Unbounded:wght@600;800&display=swap">
+  <link rel="stylesheet" href="vendor/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="La Tirada, inicio">
+      <img src="assets/logo-mark.svg" alt="" width="36" height="36">
+      <span class="wordmark">La Tirada</span>
+    </a>
+    <span class="tagline">Club de petanca · Madrid</span>
+  </header>
+
+  <main id="map" aria-label="Mapa de canchas de petanca"></main>
+
+  <button class="locate" id="locate" type="button" aria-label="Centrar en mi ubicación">
+    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path fill="currentColor" d="M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8Zm9 3h-2.07A7 7 0 0 0 13 5.07V3h-2v2.07A7 7 0 0 0 5.07 11H3v2h2.07A7 7 0 0 0 11 18.93V21h2v-2.07A7 7 0 0 0 18.93 13H21v-2Zm-9 6a5 5 0 1 1 0-10 5 5 0 0 1 0 10Z"/></svg>
+  </button>
+
+  <section class="sheet" id="sheet" data-state="peek" aria-label="Canchas">
+    <button class="grip" id="grip" type="button" aria-label="Mostrar u ocultar la lista"><span></span></button>
+
+    <div class="panel" id="panel-list">
+      <div class="summary">
+        <p class="count"><strong id="count-canchas">–</strong> canchas · <strong id="count-pistas">–</strong> pistas</p>
+        <p class="hint" id="hint">Toca una bola en el mapa para ver la cancha</p>
+      </div>
+      <div class="filters">
+        <div class="chips" role="radiogroup" aria-label="Tipo de cancha">
+          <button type="button" class="chip" role="radio" aria-checked="true" data-cat="todas">Todas</button>
+          <button type="button" class="chip" role="radio" aria-checked="false" data-cat="parque">Parques</button>
+          <button type="button" class="chip" role="radio" aria-checked="false" data-cat="otra">Clubes</button>
+        </div>
+        <label class="select">
+          <span class="sr">Distrito</span>
+          <select id="distrito"><option value="">Todos los distritos</option></select>
+        </label>
+        <label class="search">
+          <span class="sr">Buscar</span>
+          <input id="q" type="search" placeholder="Buscar parque, calle o barrio" autocomplete="off" enterkeyhint="search">
+        </label>
+      </div>
+      <ol class="list" id="list"></ol>
+      <footer class="credits">
+        <p>Datos: <a href="https://datos.madrid.es/" target="_blank" rel="noopener">Ayuntamiento de Madrid, datos abiertos</a> (instalaciones deportivas básicas). Mapa base © colaboradores de OpenStreetMap.</p>
+        <p>¿Falta una cancha o hay un dato mal? Pronto podrás proponerlo desde aquí.</p>
+      </footer>
+    </div>
+
+    <article class="panel detail" id="panel-detail" hidden>
+      <button type="button" class="back" id="back">← Todas las canchas</button>
+      <div id="detail"></div>
+    </article>
+  </section>
+
+  <script src="vendor/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

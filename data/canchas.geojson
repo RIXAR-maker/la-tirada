@@ -1,0 +1,2057 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "generado": "2026-10-31",
+  "fuente": "https://datos.madrid.es/egob/catalogo/200215-0-instalaciones-deportivas.json"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.694674,
+     40.40224
+    ]
+   },
+   "properties": {
+    "id": "4527106",
+    "nombre": "Jardín Canarias",
+    "categoria": "parque",
+    "direccion": "Calle Canarias 19",
+    "cp": "28045",
+    "distrito": "Arganzuela",
+    "barrio": "Palos Moguer",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca",
+    "metro": "Palos de la Frontera (línea 3)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=5b06e4148dde0110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.694188,
+     40.390487
+    ]
+   },
+   "properties": {
+    "id": "5701215",
+    "nombre": "Molino",
+    "categoria": "parque",
+    "direccion": "Paseo Molino 2",
+    "cp": "28045",
+    "distrito": "Arganzuela",
+    "barrio": "Legazpi",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca",
+    "metro": "Legazpi (línea 3 y 6)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=43cd6650164d8210VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.584799,
+     40.472047
+    ]
+   },
+   "properties": {
+    "id": "4555959",
+    "nombre": "Alas",
+    "categoria": "parque",
+    "direccion": "Calle Alas 2",
+    "cp": "28042",
+    "distrito": "Barajas",
+    "barrio": "Timon",
+    "pistas": 3,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto 3 pistas de bolos y petanca Pista de fútbol sala",
+    "metro": "Barajas (línea 8)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d67d5c51350e1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.58565,
+     40.473511
+    ]
+   },
+   "properties": {
+    "id": "4556014",
+    "nombre": "Alhaurín",
+    "categoria": "parque",
+    "direccion": "Calle Alhaurin 6",
+    "cp": "28042",
+    "distrito": "Barajas",
+    "barrio": "Timon",
+    "pistas": 3,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto 3 pistas de bolos y petanca Campo fútbol 7 de tierra Pista de patinaje",
+    "metro": "Barajas (línea 8)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=acda62a9470e1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.584418,
+     40.451202
+    ]
+   },
+   "properties": {
+    "id": "4555292",
+    "nombre": "Barrio del Aeropuerto",
+    "categoria": "parque",
+    "direccion": "Calle Medina De Pomar 1",
+    "cp": "28042",
+    "distrito": "Barajas",
+    "barrio": "Aeropuerto",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto Pista de bolos y petanca Circuito de vida Pista de fútbol sala Parque de calistenia 2 tenis de mesa",
+    "metro": "El Capricho , Alameda de Osuna (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=43ea70af27fd1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.585807,
+     40.472636
+    ]
+   },
+   "properties": {
+    "id": "4555858",
+    "nombre": "Nuestra Señora de Loreto",
+    "categoria": "parque",
+    "direccion": "Calle Timon 16",
+    "cp": "28042",
+    "distrito": "Barajas",
+    "barrio": "Timon",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto Pista de bolos y petanca",
+    "metro": "Barajas (línea 8)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=50e8afe6d20e1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.592469,
+     40.474822
+    ]
+   },
+   "properties": {
+    "id": "12025303",
+    "nombre": "Playa de Bolnuevo",
+    "categoria": "parque",
+    "direccion": "Calle Playa De Bolnuevo 1",
+    "cp": "28042",
+    "distrito": "Barajas",
+    "barrio": "Timon",
+    "pistas": 4,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto cubierta 4 pistas de bolos y petanca Pista de chito Pista de patinaje Pista polideportiva Parque de calistenia",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ea0e707bf0c68810VgnVCM1000001d4a900aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.762461,
+     40.365966
+    ]
+   },
+   "properties": {
+    "id": "5705898",
+    "nombre": "Lonja de la Seda",
+    "categoria": "parque",
+    "direccion": "Calle Lonja De La Seda 32",
+    "cp": "28054",
+    "distrito": "Carabanchel",
+    "barrio": "Buenavista",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto Pista de bolos y petanca Pista de patinaje Pista polideportiva",
+    "metro": "La Peseta (línea 11)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=18bad4e69dde8210VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.764921,
+     40.361133
+    ]
+   },
+   "properties": {
+    "id": "5706154",
+    "nombre": "Los Morales",
+    "categoria": "parque",
+    "direccion": "Calle Morales 37",
+    "cp": "28054",
+    "distrito": "Carabanchel",
+    "barrio": "Buenavista",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca Pista de patinaje",
+    "metro": "La Peseta (línea 11)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=12af8ea1ffde8210VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.761897,
+     40.361238
+    ]
+   },
+   "properties": {
+    "id": "5706226",
+    "nombre": "Los Morales - Patrimonio Humanidad II",
+    "categoria": "parque",
+    "direccion": "Calle Patrimonio De La Humanidad 27",
+    "cp": "28054",
+    "distrito": "Carabanchel",
+    "barrio": "Buenavista",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de bolos y petanca 2 pistas de chito",
+    "metro": "La Peseta (línea 11)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=20a06c64a0ee8210VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.715247,
+     40.393088
+    ]
+   },
+   "properties": {
+    "id": "4543052",
+    "nombre": "Parque Comillas",
+    "categoria": "parque",
+    "direccion": "Calle Antonio De Leyva 35",
+    "cp": "28019",
+    "distrito": "Carabanchel",
+    "barrio": "Comillas",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "Superficie: 5.000 m2 Equipamientos: 2 pistas de bolos y petanca Campo de fútbol 7 de tierra Pista de fútbol sala Pista polideportiva 2 tenis de mesa",
+    "metro": "Marqués de Vadillo (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=72d28f82f7f61110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.728688,
+     40.377517
+    ]
+   },
+   "properties": {
+    "id": "4545662",
+    "nombre": "Vía Lusitana",
+    "categoria": "parque",
+    "direccion": "Calle Via Lusitana 19 Parque Sur",
+    "cp": "28025",
+    "distrito": "Carabanchel",
+    "barrio": "Abrantes",
+    "pistas": 4,
+    "acceso": "libre",
+    "equipamiento": "4 pistas de bolos y petanca 2 campos de fútbol 11 césped artificial Pista hockey patines Pista fútbol sala",
+    "metro": "Abrantes , Pan Bendito (línea 11)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2389d2c08ae71110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71039,
+     40.428905
+    ]
+   },
+   "properties": {
+    "id": "4548726",
+    "nombre": "Conde Duque",
+    "categoria": "parque",
+    "direccion": "Calle Santa Cruz De Marcenado 21",
+    "cp": "28015",
+    "distrito": "Centro",
+    "barrio": "Universidad",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca Pista de chito Pista de fútbol sala",
+    "metro": "San Bernardo, Noviciado, Ventura Rodríguez (líneas 2, 3 y 4)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=42fed03df9c91110VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7062,
+     40.409744
+    ]
+   },
+   "properties": {
+    "id": "10915700",
+    "nombre": "Espacio Polivalente Embajadores 18",
+    "categoria": "parque",
+    "direccion": "Calle Embajadores 18",
+    "cp": "28012",
+    "distrito": "Centro",
+    "barrio": "Embajadores",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca Campo de minipitch de césped artificial",
+    "metro": "La Latina (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a0103e641a099610VgnVCM1000001d4a900aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.669135,
+     40.459912
+    ]
+   },
+   "properties": {
+    "id": "4527220",
+    "nombre": "Alfonso XIII",
+    "categoria": "parque",
+    "direccion": "Avenida Alfonso Xiii 136",
+    "cp": "28016",
+    "distrito": "Chamartín",
+    "barrio": "Nueva Espana",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de baloncesto 2 pistas de bolos y petanca Pista de patinaje",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ea63124827ee0110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.653295,
+     40.4358
+    ]
+   },
+   "properties": {
+    "id": "4548463",
+    "nombre": "Parque El Calero",
+    "categoria": "parque",
+    "direccion": "Calle Virgen De Nuria 4",
+    "cp": "28027",
+    "distrito": "Ciudad Lineal",
+    "barrio": "La Concepcion",
+    "pistas": 10,
+    "acceso": "libre",
+    "equipamiento": "Parque de calistenia Pista de baloncesto 10 pistas de bolos y petanca Rocódromo",
+    "metro": "Barrio de la Concepción (línea 7), Quintana (línea 5), El Carmen (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=598745dbd6891110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.694665,
+     40.494525
+    ]
+   },
+   "properties": {
+    "id": "6308361",
+    "nombre": "Barrio de Santa Ana - Andrés Navarrete",
+    "categoria": "parque",
+    "direccion": "Calle Hospitalet De Llobregat 11",
+    "cp": "28034",
+    "distrito": "Fuencarral-El Pardo",
+    "barrio": "Valverde",
+    "pistas": 1,
+    "acceso": "controlado",
+    "equipamiento": "Pista de bolos y petanca Campo de fútbol 11 de césped artificial Campo de fútbol 7 de césped artificial",
+    "metro": "Fuencarral (línea 10)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f876d9359e735310VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.719158,
+     40.479352
+    ]
+   },
+   "properties": {
+    "id": "6310191",
+    "nombre": "Fermín Caballero",
+    "categoria": "parque",
+    "direccion": "Calle Fermin Caballero 88",
+    "cp": "28035",
+    "distrito": "Fuencarral-El Pardo",
+    "barrio": "Pena Grande",
+    "pistas": 6,
+    "acceso": "libre",
+    "equipamiento": "6 pistas de bolos y petanca 2 pistas de chito Pista de patinaje",
+    "metro": "Avenida de la Ilustración (línea 7)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d7fc3b3737d35310VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.725988,
+     40.48698
+    ]
+   },
+   "properties": {
+    "id": "4547376",
+    "nombre": "Mirador de la Reina (Cerro Minguete)",
+    "categoria": "parque",
+    "direccion": "Calle Cerro Minguete 156",
+    "cp": "28035",
+    "distrito": "Fuencarral-El Pardo",
+    "barrio": "Mirasierra",
+    "pistas": 1,
+    "acceso": "controlado",
+    "equipamiento": "Pista de bolos y petanca Campo de fútbol 7 de césped artificial 3 pistas de pádel Pista polideportiva 2 pistas de tenis 2 tenis de mesa",
+    "metro": "Arroyo del Fresno, Lacoma (línea 7)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=72360e45fe291110VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.712614,
+     40.493987
+    ]
+   },
+   "properties": {
+    "id": "6309100",
+    "nombre": "P.A.R. Moralzarzal",
+    "categoria": "parque",
+    "direccion": "Calle Moralzarzal 88 Cubierta De P.A.R. Moralzarzal",
+    "cp": "28034",
+    "distrito": "Fuencarral-El Pardo",
+    "barrio": "Mirasierra",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de bolos y petanca Pista polideportiva",
+    "metro": "Antonio Machado (línea 7)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a2edeba8d9835310VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.711298,
+     40.480166
+    ]
+   },
+   "properties": {
+    "id": "6309560",
+    "nombre": "Paseo de la Vaguada",
+    "categoria": "parque",
+    "direccion": "Paseo Vaguada 13",
+    "cp": "28029",
+    "distrito": "Fuencarral-El Pardo",
+    "barrio": "El Pilar",
+    "pistas": 3,
+    "acceso": "libre",
+    "equipamiento": "3 pistas de bolos y petanca Pista de chito",
+    "metro": "Lacoma (línea 7)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=72d64224cd835310VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.687244,
+     40.498924
+    ]
+   },
+   "properties": {
+    "id": "6309581",
+    "nombre": "Petanca Parque de Fuencarral",
+    "categoria": "parque",
+    "direccion": "Calle Afueras A Valverde 2",
+    "cp": "28034",
+    "distrito": "Fuencarral-El Pardo",
+    "barrio": "Valverde",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=5a9dedd8af835310VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.639034,
+     40.468886
+    ]
+   },
+   "properties": {
+    "id": "4670017",
+    "nombre": "Arequipa",
+    "categoria": "parque",
+    "direccion": "Calle Arequipa 12",
+    "cp": "28043",
+    "distrito": "Hortaleza",
+    "barrio": "Canillas",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de bolos y petanca",
+    "metro": "Mar de Cristal (líneas 4 y 8)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=88e2d141f97c5110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.642778,
+     40.459495
+    ]
+   },
+   "properties": {
+    "id": "6316901",
+    "nombre": "Club de Petanca Esperanza de Canilllas",
+    "categoria": "otra",
+    "direccion": "Calle Silvano 63",
+    "cp": "28043",
+    "distrito": "Hortaleza",
+    "barrio": "Canillas",
+    "pistas": 6,
+    "acceso": "controlado",
+    "equipamiento": "6 pistas de bolos y petanca",
+    "metro": "Esperanza (línea 4)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=50be891a12165310VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.617909,
+     40.450641
+    ]
+   },
+   "properties": {
+    "id": "11080945",
+    "nombre": "Club de Petanca Peonias",
+    "categoria": "otra",
+    "direccion": "Calle Peonias 2",
+    "cp": "28042",
+    "distrito": "Hortaleza",
+    "barrio": "Palomas",
+    "pistas": 3,
+    "acceso": "libre",
+    "equipamiento": "3 pistas de bolos y petanca",
+    "metro": "Esperanza (línea 4)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=47cd4c43e20de610VgnVCM2000001f4a900aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.638782,
+     40.472166
+    ]
+   },
+   "properties": {
+    "id": "4542557",
+    "nombre": "Jardines de Bucaramanga",
+    "categoria": "parque",
+    "direccion": "Avenida Bucaramanga 2",
+    "cp": "28033",
+    "distrito": "Hortaleza",
+    "barrio": "Pinar Rey",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de baloncesto 3x3 2 pistas de bolos y petanca Pista de chito Tenis de mesa",
+    "metro": "Mar de Cristal (líneas 4 y 8), San Lorenzo (línea 4)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6b769fbdc8e61110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.631852,
+     40.462846
+    ]
+   },
+   "properties": {
+    "id": "4670020",
+    "nombre": "Miguel Riesco - Ramón Power",
+    "categoria": "parque",
+    "direccion": "Calle Silvano 119",
+    "cp": "28043",
+    "distrito": "Hortaleza",
+    "barrio": "Piovera",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca 2 pistas de chito",
+    "metro": "Canillas (línea 4)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6b66d141f97c5110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.646658,
+     40.475722
+    ]
+   },
+   "properties": {
+    "id": "6331268",
+    "nombre": "Parque Huerta de la Salud",
+    "categoria": "parque",
+    "direccion": "Calle Mar De Las Antillas 10",
+    "cp": "28033",
+    "distrito": "Hortaleza",
+    "barrio": "Pinar Rey",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "Pista chito 2 pistas de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=dcd700c061aa5310VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.769134,
+     40.379753
+    ]
+   },
+   "properties": {
+    "id": "50260239",
+    "nombre": "Ciudad de Méjico",
+    "categoria": "parque",
+    "direccion": "Calle Rafael Finat 47",
+    "cp": "28044",
+    "distrito": "Latina",
+    "barrio": "Las Aguilas",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=fe0521b59150d910VgnVCM200000f921e388RCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.778282,
+     40.380084
+    ]
+   },
+   "properties": {
+    "id": "4579734",
+    "nombre": "Garrovillas",
+    "categoria": "parque",
+    "direccion": "Calle Garrovillas 13 Cubierta P.A.R.",
+    "cp": "28044",
+    "distrito": "Latina",
+    "barrio": "Las Aguilas",
+    "pistas": 3,
+    "acceso": "libre",
+    "equipamiento": "Pista de patinaje 3 pistas de bolos y petanca Pista de chito",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=74cc19b4c3ea2110VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.765913,
+     40.397277
+    ]
+   },
+   "properties": {
+    "id": "4627943",
+    "nombre": "Illescas",
+    "categoria": "parque",
+    "direccion": "Paseo Extremadura 363 Cubierta P.A.R.",
+    "cp": "28024",
+    "distrito": "Latina",
+    "barrio": "Aluche",
+    "pistas": 3,
+    "acceso": "libre",
+    "equipamiento": "Pista fútbol sala 3 pistas de bolos y petanca",
+    "metro": "Campamento (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=bcd8f1723a784110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.744741,
+     40.40261
+    ]
+   },
+   "properties": {
+    "id": "4563440",
+    "nombre": "Jardines Alhambra",
+    "categoria": "parque",
+    "direccion": "Calle Alhambra 23",
+    "cp": "28047",
+    "distrito": "Latina",
+    "barrio": "Los Carmenes",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto Pista de bolos y petanca Pista de chito Pista de minipitch Pista de patinaje",
+    "metro": "Lucero (línea 6), Laguna (línea 6)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=6cee8fa983e12110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.757541,
+     40.396755
+    ]
+   },
+   "properties": {
+    "id": "4560975",
+    "nombre": "Parque Aluche",
+    "categoria": "parque",
+    "direccion": "Calle Valmojado 4",
+    "cp": "28047",
+    "distrito": "Latina",
+    "barrio": "Aluche",
+    "pistas": 6,
+    "acceso": "controlado",
+    "equipamiento": "Campo de fútbol 11 de césped artificial 3 pistas de baloncesto Pista de fútbol sala 6 pistas de bolos y petanca 3 pistas de chito 2 tenis de mesa",
+    "metro": "Aluche (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=228a8244ca902110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.770836,
+     40.399292
+    ]
+   },
+   "properties": {
+    "id": "4628264",
+    "nombre": "Parque Boadilla",
+    "categoria": "parque",
+    "direccion": "Carretera Boadilla Del Monte 22",
+    "cp": "28024",
+    "distrito": "Latina",
+    "barrio": "Campamento",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista polideportiva Pista de baloncesto Pista de BMX Pista de bolos y petanca 4 tenis de mesa",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=a0d5dc38d4884110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.767578,
+     40.386302
+    ]
+   },
+   "properties": {
+    "id": "4580177",
+    "nombre": "Parque Calle Navia",
+    "categoria": "parque",
+    "direccion": "Calle Navia 8",
+    "cp": "28044",
+    "distrito": "Latina",
+    "barrio": "Las Aguilas",
+    "pistas": 3,
+    "acceso": "libre",
+    "equipamiento": "Pista de fútbol sala 3 pistas de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=fce6339f272b2110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.752954,
+     40.402456
+    ]
+   },
+   "properties": {
+    "id": "4564041",
+    "nombre": "Parque Sector Surbatán",
+    "categoria": "parque",
+    "direccion": "Calle Sepulveda 206",
+    "cp": "28011",
+    "distrito": "Latina",
+    "barrio": "Lucero",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "Pista de patinaje 2 pistas de bolos y petanca",
+    "metro": "Lucero (línea 6)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d640713fdf222110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.762424,
+     40.377819
+    ]
+   },
+   "properties": {
+    "id": "50261569",
+    "nombre": "Parque de las Cruces I",
+    "categoria": "parque",
+    "direccion": "Calle Rompedizo 15",
+    "cp": "28054",
+    "distrito": "Latina",
+    "barrio": "Cuatro Vientos",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "Campo de fútbol 11 de tierra Pista polideportiva 2 pistas de bolos y petanca Rocódromo",
+    "metro": "Aluche (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=bb9ad3783ea0d910VgnVCM100000891ecb1aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.75774,
+     40.397646
+    ]
+   },
+   "properties": {
+    "id": "4566220",
+    "nombre": "Seseña",
+    "categoria": "parque",
+    "direccion": "Calle Seseña 2",
+    "cp": "28024",
+    "distrito": "Latina",
+    "barrio": "Aluche",
+    "pistas": 11,
+    "acceso": "libre",
+    "equipamiento": "11 pistas de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=055c7c0076d22110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.720129,
+     40.459
+    ]
+   },
+   "properties": {
+    "id": "6339254",
+    "nombre": "Petanca Dehesa de la Villa",
+    "categoria": "parque",
+    "direccion": "Carretera Dehesa De La Villa 5",
+    "cp": "28040",
+    "distrito": "Moncloa-Aravaca",
+    "barrio": "Ciudad Universitaria",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0f0ca36eef1e5310VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.726682,
+     40.422887
+    ]
+   },
+   "properties": {
+    "id": "4527560",
+    "nombre": "Petanca Marqués de Monistrol",
+    "categoria": "parque",
+    "direccion": "Paseo Marques De Monistrol",
+    "cp": "",
+    "distrito": "Moncloa-Aravaca",
+    "barrio": "",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de bolos y petanca",
+    "metro": "Príncipe Pío (líneas 6, 10 y R)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=caa8849491df0110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.659119,
+     40.40969
+    ]
+   },
+   "properties": {
+    "id": "5935266",
+    "nombre": "Diego de Valderrábano",
+    "categoria": "parque",
+    "direccion": "Calle Corregidor Diego De Valderrabano 26",
+    "cp": "28030",
+    "distrito": "Moratalaz",
+    "barrio": "Media Legua",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista polideportiva Pista de bolos y petanca",
+    "metro": "Estrella (línea 9)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=4f796e6292bdd210VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.64387,
+     40.383949
+    ]
+   },
+   "properties": {
+    "id": "12038117",
+    "nombre": "Jardín Campo de la Paloma",
+    "categoria": "parque",
+    "direccion": "Jardín Campo De La Paloma",
+    "cp": "",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Palomeras Sureste",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto Pista de bolos y petanca Rocódromo",
+    "metro": "Miguel Hernández (línea 1)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=efde11cae53c8810VgnVCM1000001d4a900aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.672044,
+     40.386419
+    ]
+   },
+   "properties": {
+    "id": "4583138",
+    "nombre": "Parque La Viña",
+    "categoria": "parque",
+    "direccion": "Calle Concejo De Teverga 2",
+    "cp": "28053",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Entrevias",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto 2 pistas de bolos y petanca Pista de fútbol sala 2 tenis de mesa",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=b91d2b9229db2110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.646246,
+     40.396326
+    ]
+   },
+   "properties": {
+    "id": "4581044",
+    "nombre": "Parque Marchamalo",
+    "categoria": "parque",
+    "direccion": "Calle Marchamalo 15",
+    "cp": "28038",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Portazgo",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca Pista polideportiva",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=f0e72734f83b2110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.675882,
+     40.381284
+    ]
+   },
+   "properties": {
+    "id": "12037445",
+    "nombre": "Parque de Entrevías - Petanca",
+    "categoria": "parque",
+    "direccion": "Ronda Sur 53",
+    "cp": "28053",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Entrevias",
+    "pistas": 8,
+    "acceso": "libre",
+    "equipamiento": "8 pistas de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=ab33e510c8eb8810VgnVCM2000001f4a900aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.683071,
+     40.414042
+    ]
+   },
+   "properties": {
+    "id": "50245825",
+    "nombre": "Petanca Palacio Cristal en el Retiro",
+    "categoria": "parque",
+    "direccion": "Paseo Republica De Cuba 6",
+    "cp": "28009",
+    "distrito": "Retiro",
+    "barrio": "Los Jeronimos",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de petanca",
+    "metro": "Retiro (línea 2)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=fd7680c556dbc910VgnVCM200000f921e388RCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.660858,
+     40.424763
+    ]
+   },
+   "properties": {
+    "id": "50246052",
+    "nombre": "Parque Fuente del Berro (Petanca)",
+    "categoria": "parque",
+    "direccion": "Parque Quinta Fuente Del Berro",
+    "cp": "",
+    "distrito": "Salamanca",
+    "barrio": "",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de petanca.",
+    "metro": "O'Donnell (línea 6)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=62b1a835a8dbc910VgnVCM200000f921e388RCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.625234,
+     40.425442
+    ]
+   },
+   "properties": {
+    "id": "4556653",
+    "nombre": "Ambulatorio - El Paraíso",
+    "categoria": "parque",
+    "direccion": "Calle Ajofrin 2",
+    "cp": "28037",
+    "distrito": "San Blas-Canillejas",
+    "barrio": "Amposta",
+    "pistas": 5,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de baloncesto Pista de fútbol sala 5 pistas de petanca Skate park",
+    "metro": "Simancas (línea 7)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d0822414d35e1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.596958,
+     40.449088
+    ]
+   },
+   "properties": {
+    "id": "4556948",
+    "nombre": "Ciudad Pegaso II",
+    "categoria": "parque",
+    "direccion": "Avenida Sexta 4",
+    "cp": "28022",
+    "distrito": "San Blas-Canillejas",
+    "barrio": "Rejas",
+    "pistas": 3,
+    "acceso": "libre",
+    "equipamiento": "3 pistas de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=9b161816485e1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.623406,
+     40.444032
+    ]
+   },
+   "properties": {
+    "id": "50264376",
+    "nombre": "Ensidesa",
+    "categoria": "parque",
+    "direccion": "Plaza Ensidesa 7",
+    "cp": "28027",
+    "distrito": "San Blas-Canillejas",
+    "barrio": "El Salvador",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de bolos y petanca Pista de patinaje",
+    "metro": "Suanzes, Torre Arias (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=19c2758449f1d910VgnVCM100000891ecb1aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.609293,
+     40.443044
+    ]
+   },
+   "properties": {
+    "id": "4557463",
+    "nombre": "Esfinge",
+    "categoria": "parque",
+    "direccion": "Calle Esfinge 58 Cubierta P.A.R.",
+    "cp": "28022",
+    "distrito": "San Blas-Canillejas",
+    "barrio": "Canillejas",
+    "pistas": 14,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto 14 pistas de bolos y petanca 8 pistas de calva Pista de fútbol sala",
+    "metro": "Torre Arias (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=0e23950eb4ae1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.609592,
+     40.439036
+    ]
+   },
+   "properties": {
+    "id": "4556968",
+    "nombre": "Lucano - Arquitecto Antonio Palacios",
+    "categoria": "parque",
+    "direccion": "Calle Esfinge 76",
+    "cp": "28022",
+    "distrito": "San Blas-Canillejas",
+    "barrio": "Canillejas",
+    "pistas": 1,
+    "acceso": "controlado",
+    "equipamiento": "Campo de fútbol 11 césped artificial Pista de bolos y petanca Pista de fútbol sala",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=2675edf4b85e1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.695337,
+     40.473452
+    ]
+   },
+   "properties": {
+    "id": "4549233",
+    "nombre": "Parque de la Ventilla",
+    "categoria": "parque",
+    "direccion": "Calle Via Limite 101 Parque De La Ventilla",
+    "cp": "28029",
+    "distrito": "Tetuán",
+    "barrio": "Almenara",
+    "pistas": 3,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto 2 pistas de baloncesto 3x3 Pista de bolos y petanca Pista de fútbol sala Pista de patinaje",
+    "metro": "Ventilla (línea 9)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=64ef3a8c57d91110VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.704614,
+     40.470183
+    ]
+   },
+   "properties": {
+    "id": "4549250",
+    "nombre": "Rodríguez Sahagún II (Los Pinos)",
+    "categoria": "parque",
+    "direccion": "Paseo Direccion 299",
+    "cp": "28029",
+    "distrito": "Tetuán",
+    "barrio": "Valdeacederas",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de baloncesto 2 pistas de bolos y petanca Pista de patinaje 2 pistas polideportivas (1 cubierta) 3 tenis de mesa",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=bb9f22cad8d91110VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.709617,
+     40.469821
+    ]
+   },
+   "properties": {
+    "id": "12034775",
+    "nombre": "Skate Plaza",
+    "categoria": "parque",
+    "direccion": "Calle Miramelindos 5",
+    "cp": "28029",
+    "distrito": "Tetuán",
+    "barrio": "Valdeacederas",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "2 pistas de bolos y petanca Pista de skate",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=d04cd29da3fa8810VgnVCM2000001f4a900aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.716267,
+     40.379767
+    ]
+   },
+   "properties": {
+    "id": "4556053",
+    "nombre": "Cerro Blanco",
+    "categoria": "parque",
+    "direccion": "Calle Albardin 7 c/v Calle Cerro Blanco",
+    "cp": "28026",
+    "distrito": "Usera",
+    "barrio": "Zofio",
+    "pistas": 2,
+    "acceso": "controlado",
+    "equipamiento": "Pista de baloncesto Pista de balonmano 2 pistas de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=1cb10d17980e1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.712334,
+     40.382727
+    ]
+   },
+   "properties": {
+    "id": "4556557",
+    "nombre": "Parque Olof Palme",
+    "categoria": "parque",
+    "direccion": "Calle Fornillos 7 Parque Olof Palme",
+    "cp": "28026",
+    "distrito": "Usera",
+    "barrio": "Zofio",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de bolos y petanca Pista de skate",
+    "metro": "Plaza Elíptica (línea 6 y 11)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=616c33d7305e1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.713095,
+     40.386091
+    ]
+   },
+   "properties": {
+    "id": "50320801",
+    "nombre": "Pista Petanca Marquesa de Silvela",
+    "categoria": "parque",
+    "direccion": "Calle Marquesa De Silvela 15",
+    "cp": "28026",
+    "distrito": "Usera",
+    "barrio": "Moscardo",
+    "pistas": 1,
+    "acceso": "libre",
+    "equipamiento": "Pista de petanca",
+    "metro": "Plaza Elíptica (línea 6 y 11)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=796647290936e910VgnVCM200000f921e388RCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.704928,
+     40.391124
+    ]
+   },
+   "properties": {
+    "id": "4555963",
+    "nombre": "Plaza Vallandes",
+    "categoria": "parque",
+    "direccion": "Calle Calesas 4",
+    "cp": "28026",
+    "distrito": "Usera",
+    "barrio": "Moscardo",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto 2 pistas de bolos y petanca",
+    "metro": "Usera (línea 6)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=73415c51350e1110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.607617,
+     40.410794
+    ]
+   },
+   "properties": {
+    "id": "4541767",
+    "nombre": "Parque de la Vicalvarada",
+    "categoria": "parque",
+    "direccion": "Calle Vereda Del Pinar 1",
+    "cp": "28032",
+    "distrito": "Vicálvaro",
+    "barrio": "Ambroz",
+    "pistas": 1,
+    "acceso": "controlado",
+    "equipamiento": "Pista de mini baloncesto Pista de bolos y petanca Campo de fútbol 11 césped artificial Pista de chito Pista de patinaje Parque de calistenia para el campo de fútbol. El resto tiene acceso libre.",
+    "metro": "Vicálvaro (línea 9)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=9b1fdec5c4961110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.748188,
+     40.394906
+    ]
+   },
+   "properties": {
+    "id": "6336549",
+    "nombre": "Parque Cerro Almodóvar II",
+    "categoria": "parque",
+    "direccion": "Parque Cerro Almodovar",
+    "cp": "",
+    "distrito": "Villa de Vallecas",
+    "barrio": "",
+    "pistas": 4,
+    "acceso": "libre",
+    "equipamiento": "Pista de patinaje 3 pistas de chito 4 pistas de bolos y petanca Pista de skate Pista de skate bowl 2 tenis de mesa",
+    "metro": "Aluche (línea 5)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=b3469c1a07dc5310VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.681931,
+     40.356879
+    ]
+   },
+   "properties": {
+    "id": "5695851",
+    "nombre": "Americio",
+    "categoria": "parque",
+    "direccion": "Calle Americio 2",
+    "cp": "28021",
+    "distrito": "Villaverde",
+    "barrio": "Butarque",
+    "pistas": 2,
+    "acceso": "libre",
+    "equipamiento": "Pista de mini baloncesto 2 pistas de bolos y petanca",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=061c880b0aab8210VgnVCM2000000c205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.717424,
+     40.348938
+    ]
+   },
+   "properties": {
+    "id": "4671014",
+    "nombre": "Parque Plata y Castañar",
+    "categoria": "parque",
+    "direccion": "Paseo Plata Y Castañar 5",
+    "cp": "28021",
+    "distrito": "Villaverde",
+    "barrio": "San Andres",
+    "pistas": 6,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto Pista de baloncesto 3x3 Campo de beisbol de tierra 6 pistas de bolos y petanca 3 pistas de chito Pista de patinaje Pistas polideportivas 2 pistas de voleibol",
+    "metro": null,
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=009349ad8bcc5110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69215,
+     40.34833
+    ]
+   },
+   "properties": {
+    "id": "4542483",
+    "nombre": "Santa Petronila",
+    "categoria": "parque",
+    "direccion": "Calle Santa Petronila 21",
+    "cp": "28021",
+    "distrito": "Villaverde",
+    "barrio": "Los Rosales",
+    "pistas": 6,
+    "acceso": "libre",
+    "equipamiento": "Pista de baloncesto 6 pistas de bolos y petanca Pista polideportiva",
+    "metro": "Villaverde Bajo Cruce (línea 3)",
+    "fuente": "Ayuntamiento de Madrid · Datos abiertos (IDB)",
+    "url": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=9d79c83035e61110VgnVCM1000000b205a0aRCRD",
+    "iluminacion": null,
+    "sombra": null,
+    "bancos": null,
+    "agua": null,
+    "superficie": null,
+    "fotos": [],
+    "juego_habitual": null
+   }
+  }
+ ]
+}
